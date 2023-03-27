@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6420e0f6bf6061469c0fcf04"
+  },
+  "titulo": "Crepusculo",
+  "genero": "romance",
+  "año": "2008",
+  "duración": "122",
+  "productor": "Temple Hill Entertainment"
+},{
+  "_id": {
+    "$oid": "6420f28ed37ae9e915a42c54"
+  },
+  "titulo": "Star Trek",
+  "genero": "ciciencia",
+  "año": "2009",
+  "duración": "127",
+  "productor": "Bad Robot Productions"
+},{
+  "_id": {
+    "$oid": "6420f736c5ab8b94f3eef973"
+  },
+  "titulo": "Gatos con botas 2",
+  "genero": "aventura",
+  "año": "2022",
+  "duración": "100",
+  "productor": "DreamWorks animation"
+}]
